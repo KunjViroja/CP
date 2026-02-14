@@ -75,7 +75,9 @@ const RevealPage = () => {
       >
         <h1 className="hero-title">Dear Priya,</h1>
         <p className="hero-subtitle">
-          From the moment our paths crossed, my world became brighter, warmer, and infinitely more beautiful.
+          Happy Valentine's Day to the woman I get to call my future wife.
+          I'm so excited for the life we're building together—the laughs, the late nights, the little traditions, and the big dreams. Loving you feels easy, natural, and right. Thank you for being you and for choosing me.
+          Forever sounds perfect with you.
         </p>
       </section>
 
